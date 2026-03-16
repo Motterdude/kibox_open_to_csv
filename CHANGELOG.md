@@ -6,3 +6,4 @@
 - Copiada a implementacao funcional usada no workspace NANUM, preservando CLI e GUI.
 - Ajustado o caminho de configuracao local para `%LOCALAPPDATA%\kibox_open_to_csv\`.
 - Documentado o relacionamento com `Processamentos` e `Knock_Distribution`.
+- Registrado em documentacao operacional que cada PC que for rodar o tool precisa ter o `OpenToCSV.exe` da Kistler disponivel localmente.
